@@ -6,4 +6,4 @@ Resources:
     Type: AWS::S3::Bucket
     Description: CreatingS3 bucket from CloudFormation
     Properties:
-      BucketName: pocpipelinenews16feb
+      BucketName: pocpipelinenews16fe
